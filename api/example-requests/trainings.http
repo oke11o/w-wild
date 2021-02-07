@@ -1,0 +1,17 @@
+GET {{service}}/api/trainings
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX3V1aWQiOiIxMjM0NTY3ODkwIiwiZW1haWwiOiJqb25oQGV4YW1wbGUuY29tIiwibmFtZSI6IkpvaG4gRG9lIiwicm9sZSI6ImF0dGVuZGVlIn0.n7QvXB5UVPnjYTPryZc-4E5RiOCu9f99DZk8L72c304
+
+###
+
+POST {{service}}/api/trainings
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX3V1aWQiOiIxMjM0NTY3ODkwIiwiZW1haWwiOiJqb25oQGV4YW1wbGUuY29tIiwibmFtZSI6IkpvaG4gRG9lIiwicm9sZSI6ImF0dGVuZGVlIn0.n7QvXB5UVPnjYTPryZc-4E5RiOCu9f99DZk8L72c304
+
+{
+  "time": "2021-02-07T17:32:28Z",
+  "notes": "First note"
+}
+
+###
+
